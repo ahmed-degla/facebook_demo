@@ -1,1 +1,34 @@
-class AppIcons {    static const String facebook = 'assets/images/png/facebook_text_logo.png';  static const String metaLogo = 'assets/images/png/meta_logo.png';  static const String splashLogo = 'assets/images/png/splash_logo.png';  static const String plus = 'assets/images/png/plus.png';  static const String search = 'assets/images/png/search.png';  static const String messanger = 'assets/images/png/messanger.png';  static const String home = 'assets/images/png/home.png';  static const String videos = 'assets/images/png/videos.png';  static const String store = 'assets/images/png/store.png';  static const String profile = 'assets/images/png/profile.png';  static const String bell = 'assets/images/png/bell.png';  static const String user = 'assets/images/png/user.png';  static const String mediaUpload = 'assets/images/png/media_upload.png';  static const String globe = 'assets/images/png/globe.png';  static const String more = 'assets/images/png/more.png';  static const String heart = 'assets/images/png/heart.png';  static const String comment = 'assets/images/png/comment.png';  static const String share = 'assets/images/png/share.png';  static const String bookmark = 'assets/images/png/bookmark.png';                  }
+class AppIcons {
+  
+  static const String facebook = 'assets/images/png/facebook_text_logo.png';
+  static const String metaLogo = 'assets/images/png/meta_logo.png';
+  static const String splashLogo = 'assets/images/png/splash_logo.png';
+  static const String plus = 'assets/images/png/plus.png';
+  static const String search = 'assets/images/png/search.png';
+  static const String messanger = 'assets/images/png/messanger.png';
+  static const String home = 'assets/images/png/home.png';
+  static const String videos = 'assets/images/png/videos.png';
+  static const String store = 'assets/images/png/store.png';
+  static const String profile = 'assets/images/png/profile.png';
+  static const String bell = 'assets/images/png/bell.png';
+  static const String user = 'assets/images/png/user.png';
+  static const String mediaUpload = 'assets/images/png/media_upload.png';
+  static const String globe = 'assets/images/png/globe.png';
+  static const String more = 'assets/images/png/more.png';
+  static const String heart = 'assets/images/png/heart.png';
+  static const String comment = 'assets/images/png/comment.png';
+  static const String share = 'assets/images/png/share.png';
+
+  //;;;;
+  static const String bookmark = 'assets/images/png/bookmark.png';
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+}
